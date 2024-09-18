@@ -1,6 +1,10 @@
 Este é um aplicativo simples que tem a intenção de mostrar o uso de várias funcionalidades do java script
 
-   https://welintongomes.github.io/contador-com-cores/
+para conpartilhar
+
+    https://welintongomes.github.io/contador-com-limites/
+
+link: https://welintongomes.github.io/contador-com-limites/
 
 * querySelector
 * addEventListener
